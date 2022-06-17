@@ -1,5 +1,5 @@
 #Cartoon Program
-#Using user input and the elif clause
+#Demonstrates user input and the elif clause
 #Console based starter Pokemon
 
 print("Hello there! Welcome to the world of Pokémon!"\
