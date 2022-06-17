@@ -1,5 +1,6 @@
 #Two fave foods.
 #Concatenate foods.
+#Demonstrates concatenating strings.
 
 food1 = input("What's your favourite food? ")
 food2 = input("What's another of your favourite food? ")
